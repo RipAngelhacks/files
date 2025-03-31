@@ -440,6 +440,14 @@
     "game": "Interstellar proxy"
   },
   {
+    "gameroot": "Snowrider3d/",
+    "game": "Snow rider 3D"
+  },
+  {
+    "gameroot": "Slowroads/",
+    "game": "Slow Roads"
+  },
+  {
     "gameroot": "WeBecomeWhatWeBehold/",
     "game": "We Become What We Behold"
   }
