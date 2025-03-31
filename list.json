@@ -420,6 +420,26 @@
     "game": "Vex V7"
   },
   {
+    "gameroot": "Ai/",
+    "game": "Ai/Chatbot"
+  },
+  {
+    "gameroot": "Bladeball/",
+    "game": "Blade ball"
+  },
+  {
+    "gameroot": "Clock/",
+    "game": "Clock/Time"
+  },
+  {
+    "gameroot": "Exthang/",
+    "game": "Exthang (Causes lag)"
+  },
+  {
+    "gameroot": "Interstellar/",
+    "game": "Interstellar proxy"
+  },
+  {
     "gameroot": "WeBecomeWhatWeBehold/",
     "game": "We Become What We Behold"
   }
