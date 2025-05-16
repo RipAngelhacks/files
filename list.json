@@ -432,14 +432,6 @@
     "game": "Clock/Time"
   },
   {
-    "gameroot": "Exthang/",
-    "game": "Exthang (Causes lag)"
-  },
-  {
-    "gameroot": "Interstellar/",
-    "game": "Interstellar proxy"
-  },
-  {
     "gameroot": "Snowrider3d/",
     "game": "Snow rider 3D"
   },
